@@ -1,0 +1,8 @@
+{
+  "first_name": "test first name",
+  "last_name": "test last name",
+  "age": 55,
+  "card_number": 34345586734,
+  "phone_number": "9456-234-234-23",
+  "verified": true
+}

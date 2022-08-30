@@ -1,0 +1,14 @@
+version:
+  0.0.1
+tickerIntervalSeconds: 5
+log:
+  is_production: false
+  dir: "/dev"
+  file: "stderr"
+  encoding: "json"
+mongo:
+  user: skrhdjfndkfjg
+  password: uiyUISUIhiai63692348
+  host: localhost
+  port: 27017
+  name: test
